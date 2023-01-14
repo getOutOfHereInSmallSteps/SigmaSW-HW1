@@ -327,6 +327,16 @@
 .footer-apps {
   text-align: center;
   align-self: flex-end;
+  padding-bottom: 2.4rem;
+}
+
+.mobile-platforms__images {
+  display: flex;
+  gap: 1.6rem;
+}
+
+.mobile-platforms__images img {
+  cursor: pointer;
 }
 
 .footer-apps-header {
