@@ -204,6 +204,7 @@
 }
 
 .customer-block {
+  padding-top: 1rem;
   flex-basis: 45%;
   flex-shrink: 0;
 }
