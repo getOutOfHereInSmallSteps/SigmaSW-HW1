@@ -31,6 +31,10 @@ SHADOWS: 0 3.62px 18.11px 0 rgba(165, 165, 165, 0.25);
   margin: 0 auto;
 }
 
+.w-480 {
+  width: 48rem;
+}
+
 /* ELEMENT CLASSES */
 
 .heading-primary {
@@ -115,8 +119,4 @@ SHADOWS: 0 3.62px 18.11px 0 rgba(165, 165, 165, 0.25);
   font-size: 3.2rem;
 }
 
-/* TEST */
 
-.w-440 {
-  width: 48rem;
-}
